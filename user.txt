@@ -1,0 +1,15 @@
+student1,bus1,0810,tiger circle
+student2,bus1,0815,MGM college
+student3,bus1,0820,Kalsanka
+student4,bus1,0825,Udupi BusStand
+student5,bus1,0830,Big Bazaar
+student6,bus1,0835,Udyavara
+student7,bus3,0840,Katpadi
+student8,bus4,0845,Shankarpura
+student9,bus1,0850,Bantakal       
+student10,bus2
+staff1
+staff2
+staff3
+staff4
+
